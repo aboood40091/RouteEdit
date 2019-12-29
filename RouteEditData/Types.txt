@@ -3,16 +3,17 @@
 雪:Snowy Road
 木:Wooden Road
 氷:Icy Road
+水:Wet Road
 雲:Cloudy Road
 石:Stony Road
 土:Muddy Road
-ﾎ橋:Stony Bridge
-石橋:Stony Bridge 2
+石橋:Stony Bridge
 流砂:Quicksand
 坂:Slope
 氷坂:Icy Slope
 ジャンプ:Jump
 ツタ:Vine
+スイッチブロック:Switch Block
 はしご:Ladder
 はしご左:Ladder Left
 はしご右:Ladder Right
@@ -20,5 +21,3 @@
 はしご岩左:Stone Ladder Left
 はしご岩右:Stone Ladder Right
 はしご縄:Rope Ladder
-はしご縄左:Rope Ladder Left
-はしご縄右:Rope Ladder Right
